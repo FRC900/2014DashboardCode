@@ -170,6 +170,8 @@
 				<Item Name="NT Write Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Write Boolean.vi"/>
 				<Item Name="NT Read Boolean Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Read Boolean Array.vi"/>
 				<Item Name="NT Read Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Read Boolean.vi"/>
+				<Item Name="Read Axis JPG.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_Axis Camera VIs/Read Axis JPG.vi"/>
+				<Item Name="BuildCameraCGI.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_Axis Camera VIs/BuildCameraCGI.vi"/>
 			</Item>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
